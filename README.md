@@ -19,3 +19,5 @@
 - Salida:
     + Grados Kelvin: 287.15
     + Grados Fahrenheit: 57.2
+
+ https://camiloandresv.github.io/logica-programacion-2/
