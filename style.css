@@ -1,0 +1,50 @@
+* {
+    background: #d6f7ec;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #000;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+.caja {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 10px;
+}
+
+.caja input {
+    padding: 10px;
+    border: 1px solid #080808;
+    border-radius: 4px;
+    color: rgb(12, 12, 12);
+    font-size: 16px;
+}
+
+.caja button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #4ab14d;
+    color: rgb(12, 12, 12);
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#resultado {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    gap: 10px;
+}
